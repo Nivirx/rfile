@@ -1,8 +1,8 @@
-# Stubby - Simple File and Text Sharing
+# rFile - Simple File and Text Sharing
 
-Stubby is a simple yet powerful file and text sharing web service built using Rust and Rocket. Inspired by the functionality of Pastebin and Gist, Stubby aims to provide a similar experience with additional support for file uploads.
+rFile is a simple yet powerful file and text sharing web service built using Rust and Rocket. Inspired by the functionality of Pastebin and Gist, rFile aims to provide a similar experience with additional support for file uploads.
 
-🚀 **Why Stubby?**
+🚀 **Why rFile?**
 
 - Responsive UI
 - File and text snippet uploads
@@ -20,13 +20,13 @@ Stubby is a simple yet powerful file and text sharing web service built using Ru
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Nivirx/Stubby.git
+    git clone https://github.com/Nivirx/rFile.git
     ```
 
 2. Navigate into the project directory:
 
     ```bash
-    cd Stubby
+    cd rFile
     ```
 
 3. Build and run the application using Cargo:
@@ -44,7 +44,7 @@ Stubby is a simple yet powerful file and text sharing web service built using Ru
     And then run the resulting binary:
 
     ```bash
-    ./target/release/stubby
+    ./target/release/rFile
     ```
 
 ## Usage
@@ -58,7 +58,7 @@ Open your web browser and navigate to `http://localhost:8000` (or the port you c
 
 ## Dependencies
 
-Stubby relies on the following dependencies as listed in the `Cargo.toml`:
+rFile relies on the following dependencies as listed in the `Cargo.toml`:
 
 - Rocket
 - (other dependencies, if any)
