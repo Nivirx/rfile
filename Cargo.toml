@@ -35,7 +35,7 @@ flate2 = { version = "1.0.24" }
 tar = "0.4.38"
 
 # and some stuff I don't know why it isn't in std
-rand = { version = "0.8.5", features = ["std", "alloc", "getrandom", "std_rng", "log", "nightly", "simd_support"] }
+rand = { version = "0.8.5", features = ["std", "alloc", "getrandom", "std_rng", "log", "nightly"] }
 lazy_static = "1.4.0"
 regex = "1.5.6"
 chrono = "0.4.22"
