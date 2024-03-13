@@ -1,6 +1,5 @@
 #![feature(proc_macro_hygiene, decl_macro)]
 #![feature(seek_stream_len)]
-#![feature(let_else)]
 
 #[allow(unused_imports)]
 #[allow(unused_macros)]
